@@ -30,7 +30,7 @@ Quantum Swarm (QUARM) is a powerful multi-agent system that processes queries th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/QuarmFW/Quarm.git
+git clone https://github.com/vsaapi/axik 
 cd quarm
 ```
 
